@@ -1,3 +1,6 @@
+# Euripides Vrachnos CS50 AI Degree Project
+# evripides.vrachnos@gmail.com
+
 import csv
 import sys
 
